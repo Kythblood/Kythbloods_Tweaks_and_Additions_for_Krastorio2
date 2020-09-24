@@ -1,0 +1,12 @@
+{
+	"name": "Kythbloods_Tweaks_and_Additions_for_Krastorio2",
+	"version": "0.1.2",
+	"factorio_version": "1.0",
+	"title": "Kythbloods Tweaks and Additions for Krastorio 2",
+	"author": "Kythblood",
+	"dependencies": [
+		"base >= 1.0",
+        "Krastorio2"
+	],
+  "description": "Tweaks some things in Krastorio 2 and adds some new features and tiers of buildings/equipment./nAll features and options can be toggled individually in the settings and are highly customizable. Also contains patches for a number of mods to make them fit Krastorio 2 better."
+}

@@ -1,0 +1,25 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 28.08.2020
+  Changes:
+    - Moved all infinite research related technologies to a new mod ("Kythblood’s Infinite Technologies for Krastorio")
+  Features:
+    - Added option to seperate inserter technologies:
+        - Each type of inserter is unlocked by its own research
+        - e.g. "Stack inserter" ➜ "Stack inserter" & "Stack filter inserter"
+    - Added option to change the capacity of the fluid wagon
+        - the recipe is adjusted to preserve the balance
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 28.08.2020
+  Changes:
+    - Changed factorio version to 1.0
+  Features:
+    - Krastorio 2 Additions:
+        - Added a 3x3 container that is based on the K2 medium container
+        - Added 2 smaller versions (4x4 and 5x5) of the K2 warehouse
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 26.08.2020
+  Features:
+    - Initial (private) release
